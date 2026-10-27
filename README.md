@@ -97,5 +97,8 @@ Not yet run against the live service.
 
 ## License
 
-Private and unlicensed: no permission is granted to use, copy or distribute this
-code. A license will be chosen before any public release.
+Copyright 2026 Laurels Ozy Echichinwo. Licensed under the
+[Apache License, Version 2.0, with the LLVM Exceptions](LICENSE)
+(`Apache-2.0 WITH LLVM-exception`), the same terms as
+[Staal](https://github.com/laurells/staal). The licence grants no right to the
+name "Staal".
